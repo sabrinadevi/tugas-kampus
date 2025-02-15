@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class UAS_Daspro {
+public class Uas_Daspro {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
